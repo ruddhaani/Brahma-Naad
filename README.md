@@ -1,6 +1,7 @@
 # Brahma-Naad
 
 This project is an ML model that uses OpenCV, TensorFlow, GTTS, Playsound, and Mediapipe Holistic to convert Sign Language (ASL) to Audio.
+'Brahma' is a Hindu god who created the universe and 'Naad' is a Hindu word for 'voice' . Thus, Brahma-Naad means 'creation of voice'
 
 ## Overview
 
@@ -32,5 +33,14 @@ The ASL to Audio Converter uses a combination of computer vision and deep learni
 ##Demo of the Project
 
 https://user-images.githubusercontent.com/99528334/234953291-c33cc249-d00a-4a6a-8b5b-9a7d64164171.mp4
+
+## Training Tips
+
+* Instead of training model manually , you can use Virtual Cam such as ManyCam application to train model using videos from YouTube.
+* Avoid using OBS Virtual Camera as OpenCV does not support it.
+
+## Acknowledgements
+
+This Project was inspired by the work of Nicholas Renotte . The Mediapipe Holistic Pipeline used in this project was developed by Google
 
 
