@@ -29,3 +29,8 @@ The ASL to Audio Converter uses a combination of computer vision and deep learni
 * However , if you wish to train the model kindly run the Train.ipynb file , a Folder with name 'Data_New' will be created , move the contents of 'Data-New' to 'Data'.
 * Now, to save the model use the 'SavingModel.ipynb' file.
 
+##Demo of the Project
+
+https://user-images.githubusercontent.com/99528334/234953291-c33cc249-d00a-4a6a-8b5b-9a7d64164171.mp4
+
+
