@@ -22,7 +22,7 @@ The ASL to Audio Converter uses a combination of computer vision and deep learni
 
 * Clone the Repository
 * Install the required libraries - `pip install tensorflow opencv-python mediapipe sklearn matplotlib gtts playsound==1.2.2`
-* Open your Jupyter Notebook and Upload the cloned floder
+* Open your Jupyter Notebook and Upload the cloned foLder
 
 ## How to use the Project
 
